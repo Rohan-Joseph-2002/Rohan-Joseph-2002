@@ -1,4 +1,4 @@
-# Hi, I'm Rohan 👋
+# Hi, I'm Rohan! 👋
 
 🔬 **Predoctoral Researcher**, Ellison Institute of Technology Oxford, Limited  
 📊 **BSc Statistics**, University of British Columbia (UBC)  
