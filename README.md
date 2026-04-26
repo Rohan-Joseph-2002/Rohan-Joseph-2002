@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/LaTeX-Research%20Writing-informational?style=flat&logo=latex" />
 </p>
 
-💼 [LinkedIn](https://www.linkedin.com/in/rohan-joseph012) • 📚 [Research](https://github.com/Rohan-Joseph-2002/independent-research) • 📄 CV • ✉️ [Email](mailto:rohanjosephapps@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/rohan-joseph012) • 📚 [Research](https://github.com/Rohan-Joseph-2002/independent-research-papers) • 📄 CV • ✉️ [Email](mailto:rohanjosephapps@gmail.com)
 
 ---
 
@@ -80,13 +80,13 @@ Integrated dataset combining NVD, CVE, EPSS, and KEV for vulnerability risk anal
 
 ## 📝 Selected Papers
 
-- [The Capability-Use Gap in Occupational AI Diffusion](https://github.com/Rohan-Joseph-2002/independent-research/blob/main/Papers/The%20Capability-Use%20Gap%20In%20Occupational%20AI%20Diffusion%20-%20Evidence%20From%20Public%20Occupation-Level%20Data.pdf)  
-- [Latent Trend Discipline and Forecast Uncertainty in U.S. Unemployment](https://github.com/Rohan-Joseph-2002/independent-research/blob/main/Papers/Latent%20Trend%20Discipline%20And%20Forecast%20Uncertainty%20In%20U.S.%20Unemployment%20-%20Evidence%20From%20Bayesian%20State-Space%20Models.pdf)
+- [The Capability-Use Gap in Occupational AI Diffusion](https://github.com/Rohan-Joseph-2002/independent-research-papers/blob/main/Papers/The%20Capability-Use%20Gap%20In%20Occupational%20AI%20Diffusion%20-%20Evidence%20From%20Public%20Occupation-Level%20Data.pdf)  
+- [Latent Trend Discipline and Forecast Uncertainty in U.S. Unemployment](https://github.com/Rohan-Joseph-2002/independent-research-papers/blob/main/Papers/Latent%20Trend%20Discipline%20And%20Forecast%20Uncertainty%20In%20U.S.%20Unemployment%20-%20Evidence%20From%20Bayesian%20State-Space%20Models.pdf)
 
 ## 🧭 Where To Start
 
 **Research / Predoc**  
-→ [Independent Research](https://github.com/Rohan-Joseph-2002/independent-research)  
+→ [Independent Research](https://github.com/Rohan-Joseph-2002/independent-research-papers)  
 → [AI Occupation Adoption Gap Analysis](https://github.com/Rohan-Joseph-2002/ai-occupation-adoption-gap-analysis)  
 → [Bayesian Unemployment Forecasting Analysis](https://github.com/Rohan-Joseph-2002/bayesian-unemployment-forecasting-analysis)
 
