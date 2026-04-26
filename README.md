@@ -60,7 +60,7 @@ Papers • Insights • Decision Outputs
 
 ## ⭐ Featured Work
 
-📄 [**Independent Research**](https://github.com/Rohan-Joseph-2002/independent-research)  
+📄 [**Independent Research**](https://github.com/Rohan-Joseph-2002/independent-research-papers)  
 Public archive of research papers with linked codebases.
 
 🤖 [**AI Occupation Adoption Gap Analysis**](https://github.com/Rohan-Joseph-2002/ai-occupation-adoption-gap-analysis)  
