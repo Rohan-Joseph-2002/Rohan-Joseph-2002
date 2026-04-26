@@ -1,6 +1,6 @@
 # Hi, I'm Rohan 👋
 
-🔬 **Predoctoral Researcher**, Ellison Institute of Technology Oxford  
+🔬 **Predoctoral Researcher**, Ellison Institute of Technology Oxford, Limited  
 📊 **BSc Statistics**, University of British Columbia (UBC)  
 🧠 **Applied Econometrics • Statistical Modelling • Data Systems**
 
@@ -52,7 +52,7 @@ Papers • Insights • Decision Outputs
 
 | Area | Focus |
 |---|---|
-| `Current role` | Predoctoral Researcher in Economics, Ellison Institute of Technology Oxford |
+| `Current role` | Predoctoral Researcher in Economics, Ellison Institute of Technology Oxford, Limited |
 | `What I build` | End-to-end data pipelines, analytical datasets, and paper-linked empirical outputs |
 | `Methods` | Panel data, fixed effects, Bayesian state-space models, forecasting, NLP, entity resolution |
 | `Tools` | Python, R, SQL, Spark, Stata, Git, LaTeX |
