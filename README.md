@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/LaTeX-Research%20Writing-informational?style=flat&logo=latex" />
 </p>
 
-💼 [LinkedIn](https://www.linkedin.com/in/rohan-joseph012) • 📚 [Research](https://github.com/Rohan-Joseph-2002/independent-research-papers) • 📄 [CV](https://drive.google.com/file/d/1eOK4lQr4jhDA3J3D-1laP4mmiS_2OygT/view?usp=sharing) • ✉️ [Email](mailto:rohanjosephapps@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/rohan-joseph012) • 📚 [Research](https://github.com/Rohan-Joseph-2002/independent-research-papers) • 📄 [CV](https://drive.google.com/file/d/1gd8YVPaYmA7ggseqbHJGOZtEOqzYu64S/view?usp=sharing) • ✉️ [Email](mailto:rohanjosephapps@gmail.com)
 
 ---
 
