@@ -54,7 +54,7 @@ Across projects, I prioritise **measurement, transparency, scalability, and resu
 📄 **Biological Aging Predicts Economic Aging: Intrinsic Capacity and Financial Outcomes Across Later Life**<br>
 *Julian Ashwin, Rohan Joseph, Yannis Kastis, and Andrew Scott*
 
-*Abstract:* We show that intrinsic capacity — the WHO's composite of physical, cognitive, sensory, and psychological reserves — predicts whether older adults remain employed, avoid welfare dependence, and survive. We investigate the robustness of this result to controlling for frailty burden, both within and between people. Declining capacity explains labour-force exit rather than reduced performance within employment, linking biological aging trajectories to economic aging at both the individual and aggregate level.
+*Abstract:* We show that intrinsic capacity - the WHO's composite of physical, cognitive, sensory, and psychological reserves - predicts whether older adults remain employed, avoid welfare dependence, and survive. We investigate the robustness of this result to controlling for frailty burden, both within and between people. Declining capacity explains labour-force exit rather than reduced performance within employment, linking biological aging trajectories to economic aging at both the individual and aggregate level.
 
 ## 📝 Independent Research
 
