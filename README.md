@@ -31,7 +31,7 @@ Across projects, I prioritise **measurement, transparency, scalability, and resu
 | `Current Role` | Predoctoral Researcher in Economics, Ellison Institute of Technology Oxford |
 | `What I Build` | Research Datasets, Empirical Pipelines, Dashboards, and Paper-Linked Analytical Outputs |
 | `Methods` | Panel Data, Fixed Effects, Change-On-Change Designs, Bayesian State-Space Models, Forecasting, NLP, Entity Resolution |
-| `Tools` | Python, R, SQL, PySpark, STATA, Tableau, Streamlit, DuckDB, Git, LaTeX |
+| `Tools` | Python, R, PySpark, STATA, SQL, Git, LaTeX, Streamlit, Tableau |
 | `Scale` | 100k+ Documents • 250M+ Text Rows • Large Linked Administrative Datasets |
 
 
