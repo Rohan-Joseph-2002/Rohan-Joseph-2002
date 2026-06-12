@@ -70,11 +70,11 @@ Across projects, I prioritise **measurement, transparency, scalability, and resu
 
 ## ⭐ Featured Work
 
-📊 [**AI Occupation Adoption Gap Dashboard**](https://github.com/Rohan-Joseph-2002/ai-occupation-adoption-gap-dashboard)
-: Interactive Streamlit and DuckDB dashboard for exploring the gap between theoretical AI capability and observed AI use across occupations. Includes KPI cards, filters, occupation-level scatter plots, ranked opportunity roles, SQL validation, and a [live dashboard](https://ai-occupation-adoption-gap-dashboard.streamlit.app/).
-
 🤖 [**AI Occupation Adoption Gap Analysis**](https://github.com/Rohan-Joseph-2002/ai-occupation-adoption-gap-analysis)
 : Empirical analysis linking Anthropic observed-use data, OpenAI occupation capability scores, O*NET, and BLS controls to study where AI capability has not yet translated into workplace adoption.
+
+📊 [**AI Occupation Adoption Gap Dashboard**](https://github.com/Rohan-Joseph-2002/ai-occupation-adoption-gap-dashboard)
+: Interactive Streamlit and DuckDB dashboard for exploring the gap between theoretical AI capability and observed AI use across occupations. Includes KPI cards, filters, occupation-level scatter plots, ranked opportunity roles, SQL validation, and a [live dashboard](https://ai-occupation-adoption-gap-dashboard.streamlit.app/).
 
 🧩 [**Analyst Report Entity Resolution**](https://github.com/Rohan-Joseph-2002/analyst-report-entity-resolution)
 : Entity-resolution work for linking brokerage, analyst, and firm identifiers across heterogeneous financial data sources.
