@@ -1,12 +1,13 @@
 # Hi, I'm Rohan! 👋
 
-🔬 **Researcher & Data Scientist** — Economics, Health, and AI<br>
+🔬 **Researcher & Data Scientist** — Health, Economics, and AI<br>
 🏛️ Predoctoral Researcher, Ellison Institute of Technology Oxford<br>
 📊 BSc Statistics, UBC
 
 **→ [Live Dashboard](https://ai-occupation-adoption-gap-dashboard.streamlit.app/)** — explore the gap between AI capability and observed AI use, occupation by occupation
 
 <p>
+  <img src="https://img.shields.io/badge/Health%20Data%20Science-Research%20Focus-informational?style=flat&logo=heartpulse" />
   <img src="https://img.shields.io/badge/Python-Data%20Pipelines-informational?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/SQL-Analytics%20%26%20DuckDB-informational?style=flat" />
   <img src="https://img.shields.io/badge/R-Econometrics%20%26%20Bayesian%20Models-informational?style=flat&logo=r" />
@@ -18,7 +19,7 @@
 
 ---
 
-I work at the intersection of **empirical economics, data science, and research engineering**, designing end-to-end systems for credible analysis. I focus on problems where **measurement is difficult, data is imperfect, and decisions depend on careful empirical structure**.
+I work at the intersection of **health data science, empirical economics, and research engineering**, designing end-to-end systems for credible analysis. I focus on problems where **measurement is difficult, data is imperfect, and decisions depend on careful empirical structure**.
 
 My work starts with public, administrative, or unstructured data, moves through **data linkage and dataset construction**, and culminates in papers, dashboards, reproducible pipelines, or decision-ready outputs. Across projects, I prioritise **measurement, transparency, scalability, and results that are easy to inspect**.
 
@@ -35,7 +36,7 @@ My work starts with public, administrative, or unstructured data, moves through 
 
 ## 🔍 Research & Technical Interests
 
-- Healthcare Productivity, Access, and Inequality
+- Health Data Science, Healthcare Productivity, Access and Inequality
 - Ageing, Labour Markets, and Economic Outcomes
 - AI Diffusion, Occupational Exposure, and Technology Adoption
 - Bayesian Forecasting and Model Uncertainty
