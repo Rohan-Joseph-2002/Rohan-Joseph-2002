@@ -47,14 +47,20 @@ My work starts with public, administrative, or unstructured data, moves through 
 [**Do More Appointments Lead to Shorter Waits and Better Patient Experience? Evidence from NHS Primary Care in England**](https://www.medrxiv.org/content/10.64898/2026.07.29.26359221v1)<br>
 *Rohan Joseph, Harsh Gupta, Michael Keoghan, Shaun Danielli, and Andrew Scott*
 
+Abstract: Primary care productivity in England is evaluated through appointment volume adjusted by waiting times and patient satisfaction, yet the presumption that more output should improve these quality metrics has not been tested directly. Using national data across all 42 Integrated Care Boards (2018–2024), we find that output growth was not associated with shorter waiting times or lower patient dissatisfaction, and shorter waiting times were not associated with lower dissatisfaction, suggesting that either these metrics are driven by factors other than output or fail to capture the dimensions of quality that matter, and that current performance frameworks warrant review.
+
 
 ## 🚧 Work in Progress
 
 **Are Longer Waits Associated with Lower Satisfaction and Worse Recovery? Evidence from Hip and Knee Replacement in England**<br>
 *Rohan Joseph, Harsh Gupta, Michael Keoghan, Shaun Danielli, and Andrew Scott*
 
+Abstract: Waiting times and patient dissatisfaction are widely used to assess healthcare quality, yet whether either reflects patient health, rather than only the experience of care, has rarely been tested directly. Linking respondent-level outcome measures to provider waiting times for NHS hip and knee replacement in England (2017–2023), we find that longer waits were associated with higher post-operative dissatisfaction and smaller functional improvements, and that worse satisfaction was associated with smaller improvements, with no equivalent relationship in general practice, suggesting that satisfaction in this focused pathway reflects patient-reported recovery as well as care experience, and that performance frameworks should account for the breadth of the care episode measured.
+
 **Biological Aging Predicts Economic Aging: Intrinsic Capacity and Financial Outcomes Across Later Life**<br>
 *Julian Ashwin, Yannis Kastis, Rohan Joseph and Andrew Scott*
+
+Abstract: Economic models of ageing typically measure health through self-assessed status or deficit-based frailty, yet whether retained functional capacity, rather than accumulated deficits, predicts later-life economic outcomes remains untested. Using nine waves of the English Longitudinal Study of Ageing (2002–2019), we find that higher intrinsic capacity is associated with greater employment, lower retirement and benefit receipt, lower mortality, and higher life satisfaction, both across and within individuals, and that these effects persist alongside a deficit-based frailty index, suggesting that intrinsic capacity and frailty are related but distinct measures of physiological ageing that jointly matter for economic outcomes and public finances.
 
 
 ## ⭐ Featured Work
