@@ -36,7 +36,7 @@ My work starts with public, administrative, or unstructured data, moves through 
 
 | Skill | Focus |
 |---|---|
-| `Programming & Tools` |  Python, R, SQL, PySpark, STATA, Excel, Git, LaTeX, Streamlit, DuckDB, Tableau|
+| `Programming & Tools` |  Python, R, SQL, PySpark, STATA, Git, LaTeX, Streamlit, DuckDB, Tableau|
 | `Statistical Modelling` | Panel Data Methods, Fixed Effects, Bayesian Inference, State-Space Models, Time Series, Forecasting, Causal Inference, Experimental Design |
 | `Machine Learning & NLP` | Predictive Modelling, Regression Analysis, Feature Engineering, Unsupervised Learning, LLM Information Extraction, Sentiment Analysis, Topic Modelling, Text Classification, Entity Resolution |
 | `Data & Research Engineering` | ETL Pipelines, Distributed Computing, Large-Scale Data Processing, Dataset Construction, Reproducible Workflows, Data Validation |
