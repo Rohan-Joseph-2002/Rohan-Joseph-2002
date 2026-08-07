@@ -2,8 +2,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-Data%20Pipelines-informational?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/SQL-Analytics%20%26%20DuckDB-informational?style=flat" />
   <img src="https://img.shields.io/badge/R-Econometrics%20%26%20Bayesian%20Models-informational?style=flat&logo=r" />
+  <img src="https://img.shields.io/badge/SQL-Analytics%20%26%20DuckDB-informational?style=flat" />
   <img src="https://img.shields.io/badge/Tableau-Dashboards-informational?style=flat&logo=tableau" />
   <img src="https://img.shields.io/badge/LaTeX-Research%20Writing-informational?style=flat&logo=latex" />
 </p>
