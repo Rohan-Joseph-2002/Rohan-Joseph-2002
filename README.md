@@ -62,7 +62,7 @@ My work starts with public, administrative, or unstructured data, moves through 
 *Abstract:* Using the English Longitudinal Study of Ageing (Waves 1-9, 2002-2019), higher intrinsic capacity predicts more employment, less retirement and benefit receipt, lower mortality, and higher life satisfaction, across and within individuals and net of a deficit-based frailty index. The two are related but distinct,  and both bear on public finances.
 
 
-## ⭐ Featured Work
+## ⭐ Projects
 
 📊 **The Capability-Use Gap in Occupational AI Diffusion**<br>
 *Independent Research* · [Reproducible Codebase](https://github.com/Rohan-Joseph-2002/ai-occupation-adoption-gap-analysis) · [Live Dashboard](https://ai-occupation-adoption-gap-dashboard.streamlit.app/)
