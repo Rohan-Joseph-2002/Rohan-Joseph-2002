@@ -1,12 +1,4 @@
-# Hi, I'm Rohan! <img src="https://raw.githubusercontent.com/Rohan-Joseph-2002/Rohan-Joseph-2002/main/assets/wave.gif" height="34" alt="waving hand" />
-
-📍 Oxford, UK • 💼 [LinkedIn](https://www.linkedin.com/in/rohan-joseph012) • ✉️ [Email](mailto:rohanjosephapps@gmail.com) • 🎓 [Google Scholar](https://scholar.google.com/citations?user=Ooj6wcAAAAAJ) • 📄 [CV](https://drive.google.com/file/d/1_pSHbWB3aiT82iHz62-B41leHGhh3FQ6/view?usp=share_link)
-
-🔬 Researcher & Data Scientist - Health, Economics, and AI<br>
-🏛️ Predoctoral Researcher, Ellison Institute of Technology Oxford<br>
-📊 BSc Statistics, The University of British Columbia
-
-**→ [Live Dashboard](https://ai-occupation-adoption-gap-dashboard.streamlit.app/)** — Explore the gap between AI capability and observed AI use, occupation by occupation
+# Hi, I'm Rohan! <img src="https://raw.githubusercontent.com/Rohan-Joseph-2002/Rohan-Joseph-2002/main/assets/wave.gif" height="25" alt="waving hand" />
 
 <p>
   <img src="https://img.shields.io/badge/Python-Data%20Pipelines-informational?style=flat&logo=python" />
@@ -15,6 +7,14 @@
   <img src="https://img.shields.io/badge/Tableau-Dashboards-informational?style=flat&logo=tableau" />
   <img src="https://img.shields.io/badge/LaTeX-Research%20Writing-informational?style=flat&logo=latex" />
 </p>
+
+📍 Oxford, UK • 💼 [LinkedIn](https://www.linkedin.com/in/rohan-joseph012) • ✉️ [Email](mailto:rohanjosephapps@gmail.com) • 🎓 [Google Scholar](https://scholar.google.com/citations?user=Ooj6wcAAAAAJ) • 📄 [CV](https://drive.google.com/file/d/1_pSHbWB3aiT82iHz62-B41leHGhh3FQ6/view?usp=share_link)
+
+🔬 Researcher & Data Scientist - Health, Economics, and AI<br>
+🏛️ Predoctoral Researcher, Ellison Institute of Technology Oxford<br>
+📊 BSc Statistics, The University of British Columbia
+
+**→ [Live Dashboard](https://ai-occupation-adoption-gap-dashboard.streamlit.app/)** — Explore the gap between AI capability and observed AI use, occupation by occupation
 
 ---
 
