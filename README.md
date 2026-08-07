@@ -1,8 +1,8 @@
-# Hi, I'm Rohan! 👋
+# Hi, I'm Rohan! <img src="https://raw.githubusercontent.com/Rohan-Joseph-2002/Rohan-Joseph-2002/main/assets/wave.gif" width="28" alt="waving hand" />
 
-🔬 Researcher & Data Scientist — Health, Economics, and AI<br>
+🔬 Researcher & Data Scientist - Health, Economics, and AI<br>
 🏛️ Predoctoral Researcher, Ellison Institute of Technology Oxford<br>
-📊 BSc Statistics, UBC
+📊 BSc Statistics, The University of British Columbia
 
 **→ [Live Dashboard](https://ai-occupation-adoption-gap-dashboard.streamlit.app/)** — Explore the gap between AI capability and observed AI use, occupation by occupation
 
