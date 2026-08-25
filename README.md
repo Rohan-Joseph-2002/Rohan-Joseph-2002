@@ -8,16 +8,15 @@
   <img src="https://img.shields.io/badge/LaTeX-Research%20Writing-informational?style=flat&logo=latex" />
 </p>
 
-📍 Oxford, UK • 💼 [LinkedIn](https://www.linkedin.com/in/rohan-joseph012) • ✉️ [Email](mailto:rohanjosephapps@gmail.com) • 🎓 [Google Scholar](https://scholar.google.com/citations?user=Ooj6wcAAAAAJ) • 📄 [CV](https://drive.google.com/file/d/1_pSHbWB3aiT82iHz62-B41leHGhh3FQ6/view?usp=share_link)
+📍 Oxford, UK • 💼 [LinkedIn](https://www.linkedin.com/in/rohan-joseph012) • ✉️ [Email](mailto:rohanjosephapps@gmail.com) • 🎓 [Google Scholar](https://scholar.google.com/citations?user=Ooj6wcAAAAAJ) • 📄 [CV](https://drive.google.com/file/d/1Lx_RlbFWhCy7RU9eH20sQvxJM93RPBx-/view?usp=sharing)
 
-🔬 Researcher & Data Scientist - Health, Economics, and AI<br>
-🏛️ Predoctoral Researcher, Ellison Institute of Technology Oxford<br>
-📊 BSc Statistics, The University of British Columbia
+🔬 Researcher & Data Scientist - Health, Data Science, and AI<br>
+📊 MSc Data Science and AI, Queen Mary University of London
 
 **→ [Live Dashboard](https://ai-occupation-adoption-gap-dashboard.streamlit.app/)** — Explore the gap between AI capability and observed AI use, occupation by occupation
 
 ---
 
-I work at the intersection of data science, empirical economics, and research engineering, designing end-to-end systems for credible analysis. I focus on problems where measurement is difficult, data is imperfect, and decisions depend on careful empirical structure.
+I work at the intersection of data science, empirical analysis, and research engineering, designing end-to-end systems for credible analysis. I focus on problems where measurement is difficult, data is imperfect, and decisions depend on careful empirical structure.
 
 My work starts with public, administrative, or unstructured data, moves through data linkage and dataset construction, and culminates in papers, dashboards, reproducible pipelines, or decision-ready outputs. Across projects, I prioritise measurement, transparency, scalability, and results that are easy to inspect.
