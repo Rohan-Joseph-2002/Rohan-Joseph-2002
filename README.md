@@ -8,12 +8,12 @@
   <img src="https://img.shields.io/badge/LaTeX-Research%20Writing-informational?style=flat&logo=latex" />
 </p>
 
-📍 London, UK • 💼 [LinkedIn](https://www.linkedin.com/in/rohan-joseph012) • ✉️ [Email](mailto:rohanjosephapps@gmail.com) • 🎓 [Google Scholar](https://scholar.google.com/citations?user=Ooj6wcAAAAAJ) • 📄 [CV](https://drive.google.com/file/d/1gQgdLPXAEqUJVUV9sf8o_Zm_YVAWcrxJ/view?usp=sharing)
+📍 London, UK • 💼 [LinkedIn](https://www.linkedin.com/in/rohan-joseph012) • ✉️ [Email](mailto:rohanjosephapps@gmail.com) • 🎓 [Google Scholar](https://scholar.google.com/citations?user=Ooj6wcAAAAAJ)
 
 🔬 Researcher & Data Scientist - Health, Data Science, and AI<br>
 📊 MSc Data Science and AI, Queen Mary University of London
 
-**→ [Live Dashboard](https://ai-occupation-adoption-gap-dashboard.streamlit.app/)** — Explore the gap between AI capability and observed AI use, occupation by occupation
+**→ [Live Dashboard](https://ai-occupation-adoption-gap-dashboard.streamlit.app/)** - Explore the gap between AI capability and observed AI use, occupation by occupation
 
 ---
 
